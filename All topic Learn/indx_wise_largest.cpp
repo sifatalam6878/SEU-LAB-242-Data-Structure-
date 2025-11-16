@@ -37,8 +37,11 @@ int main()
         }
     }
 
-    cout << "Maximum 1 is: " << max_1 << "index: " << idx1 << endl;
-    cout << "Maximum 2 is: " << max_2 << "index: " << idx2 << endl;
+    cout << "Maximum 1 is: " << max_1 << endl;
+    cout << "index: " << idx1 << endl;
+    
+    cout << "Maximum 2 is: " << max_2 << endl;
+    cout << "index: " << idx2 << endl;
 
     return 0;
 }
